@@ -1,15 +1,13 @@
 <h1 align="center">Hi there i am using GitHub 👋</h1>
 <h3 align="center">Python & PHP Developer, Linux User, Open Source Lover.</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=emregeldegul&show_icons=true" alt="emregeldegul" />
-
 - 🌱 I’m currently learning **Django, Laravel, Flutter**
 
 - 📝 I regulary write articles on [https://emregeldegul.net](https://emregeldegul.net)
 
 - 💬 Ask me about **Flask, MySQL**
 
-- 📫 How to reach me **yunusemregeldegul@gmail.com**
+- 📫 My Mail Address: **yunusemregeldegul@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
