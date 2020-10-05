@@ -1,4 +1,4 @@
-```
+```json
 {
     "name": "Yunus Emre Geldegül",
     "birth": "07.1997",
