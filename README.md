@@ -11,7 +11,7 @@
         "github": "https://github.com/emregeldegul",
         "linkedin": "https://www.linkedin.com/in/yunusemregeldegul/",
         "twitter": "https://twitter.com/emregeldegul",
-        "www": "https://emregeldegul.com"
+        "www": "https://emregeldegul.com.tr"
     }
 }
 ```
