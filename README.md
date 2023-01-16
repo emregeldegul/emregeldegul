@@ -1,7 +1,6 @@
 ```json
 {
     "name": "Yunus Emre Geldegül",
-    "birth": "07.1997",
     "location": "İstanbul / Türkiye",
     "position": "Back-End Developer(?)",
     "about": [
